@@ -10,5 +10,5 @@ Afortunadamente alguien ya hizo estos mapas en formato shp [GeoGPSPeru](https://
 ![EstratosSocialesMap](https://github.com/mikel8710/demo-keplergl/blob/e394c79963af748167e68f4bbc857d35e83dd450/demo_estratos_sociales_keplergl.PNG)
 
 
-![EstratosSociales.geojson](https://drive.google.com/file/d/10jkOvLvEVapTA3ghR8zLVrwKWbOLgghx/view?usp=sharing)
+[EstratosSociales.geojson](https://drive.google.com/file/d/10jkOvLvEVapTA3ghR8zLVrwKWbOLgghx/view?usp=sharing)
 
