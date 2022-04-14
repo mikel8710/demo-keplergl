@@ -5,4 +5,7 @@ usando **keplergl** para hacer analsis geospacial de los estratos sociales del P
 
 >La idea es visualizar los [Planos Estratificados de Lima Metropolitana](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1744/libro.pdf), en **Kepler.gl**, agregar otras capas de datos con información interna y luego realizar los distintos análisis.
 
-Afortunadamente alguien ya hizo estos mapas en formato shp [GeoGPSPeru](https://www.geogpsperu.com/2020/10/plano-de-estratos-de-ingresos-2020-lima.html):clap: :raised_hands:, con ello solo falta pasarlo a un formato que Kepler.gl entienda (.csv or .geojson) para ello usamos [qgis](https://qgis.org/es/site/index.html) (probablemente exista otra forma más eficiente, pero tenía instalado qgis asi que evité buscar otra forma), una vez que se tiene el geojson solo queda subir el archivo y visualizar el mapa. 
+Afortunadamente alguien ya hizo estos mapas en formato shp [GeoGPSPeru](https://www.geogpsperu.com/2020/10/plano-de-estratos-de-ingresos-2020-lima.html):clap: :raised_hands:, con ello solo falta pasarlo a un formato que Kepler.gl entienda (.csv or .geojson) para ello usamos [qgis](https://qgis.org/es/site/index.html) (probablemente exista otra forma más eficiente, pero tenía instalado qgis asi que evité buscar otra forma), una vez que se tiene el geojson solo queda subir el archivo y visualizar el mapa:
+
+![EstratosSocialesMap](https://github.com/mikel8710/demo-keplergl/blob/e394c79963af748167e68f4bbc857d35e83dd450/demo_estratos_sociales_keplergl.PNG)
+
